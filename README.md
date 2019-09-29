@@ -1,4 +1,4 @@
-# orleans-angular-aspnetcore
+# orleans-directclient-aspnetcore
 
 This is a test project using [Microsoft Orleans](https://github.com/dotnet/orleans), Asp.NET Core and the Orleans' Direct Client functionality that 
 "allows co-hosting a client and silo in a way that let the client communicate more efficiently with not just the silo it's attached to, but the entire cluster."
